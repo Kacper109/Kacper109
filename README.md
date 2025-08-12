@@ -7,6 +7,3 @@
 
 ## Contacts
 > Email: <kacperdziadek109@gmail.com>
-
-## Hardware
-```
