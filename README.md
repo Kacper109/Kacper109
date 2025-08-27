@@ -6,4 +6,4 @@
 > I wish to get into operating system development and my goal is to make my own linux distro ^-^. (If you want to help, check contacts)
 
 ## Contacts
-> Email: <kacperdziadek109@gmail.com>
+> Email: <kacperdziadek0@proton.me>
